@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Bio
+subtitle: 
 ---
+Hi! 
+My name is Yeremi Pérez, let me introduce myself. 
 
-My name is Inigo Montoya. I have the following qualities:
+### Who am I?
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I was born in a small town that surrounds Mexico City. When I was seventeen, I attended college at Tecnológico de Monterrey to study Chemistry and Nanotechnology Engineering. During those years, I was a member of two research groups; the first, Neuroengineering and Neuroacoustics Research group, I led a project about correlating physiological signals (electroencephalography, electromyography, and electrodermal activity) with emotions. In the second, Nanostructured Materials Lab, I developed a sustainable synthesis of bimetallic nanoparticles with applications in nanomedicine and electrocatalysis. After graduation, I got involved in consulting projects in industry to optimize polymeric formulations. Currently, I study a double Master’s degree in Materials Science at the Center for Research in Advanced Materials and the Queen Mary University of London.   
 
-What else do you need?
+My research interests are developing innovative materials to improve neuromorphic and quantum computing and discovering new ferroelectric, piezoelectric, and thermoelectric materials.
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
