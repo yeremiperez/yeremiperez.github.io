@@ -4,7 +4,7 @@ title: Bio
 subtitle: YP
 ---
 Hi! 
-My name is Yeremi Pérez, let me introduce myself. 
+My name is Yeremi Pérez
 
 ### Who am I?
 
