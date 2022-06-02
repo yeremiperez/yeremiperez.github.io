@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bio
-subtitle: 
+subtitle: YP
 ---
 Hi! 
 My name is Yeremi Pérez, let me introduce myself. 
